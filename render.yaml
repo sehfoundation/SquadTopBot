@@ -1,5 +1,0 @@
-services:
-  - type: web
-    name: squad-top-bot
-    env: docker
-    plan: free
