@@ -1,0 +1,12 @@
+C:\Users\verkh\Downloads\SharpBotTopOnline\bin\Release\net8.0\linux-x64\publish\SharpBotTopOnline
+C:\Users\verkh\Downloads\SharpBotTopOnline\bin\Release\net8.0\linux-x64\publish\SharpBotTopOnline.dll
+C:\Users\verkh\Downloads\SharpBotTopOnline\bin\Release\net8.0\linux-x64\publish\SharpBotTopOnline.deps.json
+C:\Users\verkh\Downloads\SharpBotTopOnline\bin\Release\net8.0\linux-x64\publish\SharpBotTopOnline.runtimeconfig.json
+C:\Users\verkh\Downloads\SharpBotTopOnline\bin\Release\net8.0\linux-x64\publish\SharpBotTopOnline.pdb
+C:\Users\verkh\Downloads\SharpBotTopOnline\bin\Release\net8.0\linux-x64\publish\DSharpPlus.dll
+C:\Users\verkh\Downloads\SharpBotTopOnline\bin\Release\net8.0\linux-x64\publish\DSharpPlus.SlashCommands.dll
+C:\Users\verkh\Downloads\SharpBotTopOnline\bin\Release\net8.0\linux-x64\publish\Emzi0767.Common.dll
+C:\Users\verkh\Downloads\SharpBotTopOnline\bin\Release\net8.0\linux-x64\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\verkh\Downloads\SharpBotTopOnline\bin\Release\net8.0\linux-x64\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\verkh\Downloads\SharpBotTopOnline\bin\Release\net8.0\linux-x64\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\verkh\Downloads\SharpBotTopOnline\bin\Release\net8.0\linux-x64\publish\Newtonsoft.Json.dll
